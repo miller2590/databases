@@ -1,2 +1,2 @@
 # databases
-Learning to work with Postgres
+A small app I used to practice creating datbase connection pools with python.
